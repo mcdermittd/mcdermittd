@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is my place on the web to share some of the projects that I've worked on over the years. You can browse projects I've found interesting by looking at what I've starred. You can read about my projects and find more context for many of the repositories hosted here by searching my personal blogs.
+
+
+
+
 - 🌱 I’m currently learning how to create Hubitat device drivers.
 - 😄 Pronouns: He/Him
 
