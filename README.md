@@ -8,6 +8,20 @@ This is my place on the web to share some of the projects that I've worked on ov
 - 🌱 I’m currently learning how to create Hubitat device drivers.
 - 😄 Pronouns: He/Him
 
+
+
+### 📢 Find me elsewhere
+<a href="https://www.linkedin.com/in/dave-mcdermitt-bb2439/">
+    <img src="social/linkedin.svg" alt="email" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://www.instagram.com/weagleguy/">
+    <img src="social/instagram.svg" alt="email" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://twitter.com/securityzealot>
+    <img src="social/twitter.svg" alt="email" style="vertical-align:top margin:6px 4px">
+</a>
+
+
 <!--
 **mcdermittd/mcdermittd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
