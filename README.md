@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning how to create Hubitat device drivers.
- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 
 <!--
 **mcdermittd/mcdermittd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
