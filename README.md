@@ -15,10 +15,10 @@ This is my place on the web to share some of the projects that I've worked on ov
     <img src="social/linkedin.svg" alt="email" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://www.instagram.com/weagleguy/">
-    <img src="social/instagram.svg" alt="email" style="vertical-align:top margin:6px 4px">
+    <img src="social/instagram.svg" alt="insta" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://twitter.com/securityzealot>
-    <img src="social/twitter.svg" alt="email" style="vertical-align:top margin:6px 4px">
+    <img src="social/twitter.svg" alt="twitter" style="vertical-align:top margin:6px 4px">
 </a>
 
 
